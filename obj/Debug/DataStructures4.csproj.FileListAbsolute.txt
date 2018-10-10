@@ -71,3 +71,5 @@ C:\Users\Trent\source\repos\DataStructures4\obj\Debug\DataStructures4.dll
 C:\Users\Trent\source\repos\DataStructures4\obj\Debug\DataStructures4.pdb
 C:\Users\Trent\source\DataStructures3\obj\Debug\DataStructures4.dll
 C:\Users\Trent\source\DataStructures3\obj\Debug\DataStructures4.pdb
+C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.dll
+C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.pdb
