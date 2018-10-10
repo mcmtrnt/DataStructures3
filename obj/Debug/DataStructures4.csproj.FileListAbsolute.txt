@@ -73,3 +73,16 @@ C:\Users\Trent\source\DataStructures3\obj\Debug\DataStructures4.dll
 C:\Users\Trent\source\DataStructures3\obj\Debug\DataStructures4.pdb
 C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.dll
 C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.pdb
+C:\Users\iankeller\source\DataStructures3\bin\DataStructures4.dll.config
+C:\Users\iankeller\source\DataStructures3\bin\DataStructures4.dll
+C:\Users\iankeller\source\DataStructures3\bin\DataStructures4.pdb
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Razor.xml
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Webpages.xml
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Webpages.Deployment.xml
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Webpages.Razor.xml
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Helpers.xml
+C:\Users\iankeller\source\DataStructures3\bin\System.Web.Mvc.xml
+C:\Users\iankeller\source\DataStructures3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.csprojAssemblyReference.cache
+C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.csproj.CoreCompileInputs.cache
+C:\Users\iankeller\source\DataStructures3\obj\Debug\DataStructures4.csproj.CopyComplete
