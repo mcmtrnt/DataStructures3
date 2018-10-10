@@ -1,0 +1,21 @@
+﻿<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>IndexStack</title>
+</head>
+<body>
+    <div class="w3-bar w3-black">
+        <a href="@Url.Action("Index", "Stack")" class="w3-bar-item w3-button">1. Stack</a>
+        <a href="@Url.Action("Index", "Queue")" class="w3-bar-item w3-button">2. Queue</a>
+        <a href="@Url.Action("Index", "Dictionary")" class="w3-bar-item w3-button">3. Dictionary</a>
+        <a href="@Url.Action("Index", "Exit")" class="w3-bar-item w3-button">4. Exit</a>
+    </div>
+</body>
+</html>
