@@ -67,3 +67,5 @@ C:\Users\Trent\source\repos\DataStructures4\DataStructures4\obj\Debug\DataStruct
 C:\Users\Trent\source\repos\DataStructures4\DataStructures4\obj\Debug\DataStructures4.csproj.CopyComplete
 C:\Users\Trent\source\repos\DataStructures4\DataStructures4\obj\Debug\DataStructures4.dll
 C:\Users\Trent\source\repos\DataStructures4\DataStructures4\obj\Debug\DataStructures4.pdb
+C:\Users\Trent\source\repos\DataStructures4\obj\Debug\DataStructures4.dll
+C:\Users\Trent\source\repos\DataStructures4\obj\Debug\DataStructures4.pdb

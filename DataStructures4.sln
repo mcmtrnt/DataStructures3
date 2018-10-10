@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures4", "DataStructures4\DataStructures4.csproj", "{17CB6CD5-4BAA-442C-9827-6FE9E7C41126}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures4", "DataStructures4.csproj", "{17CB6CD5-4BAA-442C-9827-6FE9E7C41126}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5A44CAD7-112B-4A7C-9212-503F760AD78F}
+		SolutionGuid = {09CA575D-C469-4DE4-A640-BCB26C7C9D85}
 	EndGlobalSection
 EndGlobal
